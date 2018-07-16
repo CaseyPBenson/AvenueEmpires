@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Project xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Layout combineReferences="false" width="250" height="350" buffer="0" Name="Default" defaultCount="60" dpi="100" drawBorder="true">
+    <Element name="Name" type="FormattedText" x="5" y="5" width="240" height="40" variable="@[name]" font="Georgia;18;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" borderthickness="1" rotation="0" horizontalalign="1" verticalalign="1" lineheight="14" wordspace="1" opacity="255" enabled="true" outlinecolor="0x000000FF" outlinethickness="0" justifiedtext="false" autoscalefont="false" lockaspect="false" keeporiginalsize="false" />
+    <Element name="Effect" type="FormattedText" x="5" y="50" width="240" height="125" variable="@[effect]" font="Verdana;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" borderthickness="0" rotation="0" horizontalalign="1" verticalalign="1" lineheight="20" wordspace="1" opacity="255" enabled="true" outlinecolor="0x000000FF" outlinethickness="0" justifiedtext="false" autoscalefont="false" lockaspect="false" keeporiginalsize="false" />
+    <Element name="Abbreviated Effect" type="FormattedText" x="5" y="305" width="240" height="40" variable="@[abbreviated effect]" font="Verdana;10;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" borderthickness="1" rotation="0" horizontalalign="1" verticalalign="1" lineheight="14" wordspace="0" opacity="255" enabled="true" outlinecolor="0x000000FF" outlinethickness="0" justifiedtext="false" autoscalefont="false" lockaspect="false" keeporiginalsize="false" />
+    <Element name="Image" type="Graphic" x="5" y="175" width="240" height="125" variable="@[image]" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" borderthickness="0" rotation="0" horizontalalign="1" verticalalign="1" lineheight="14" wordspace="0" opacity="255" enabled="true" outlinecolor="0x000000FF" outlinethickness="0" justifiedtext="false" autoscalefont="false" lockaspect="true" keeporiginalsize="false" />
+    <Element name="Index" type="FormattedText" x="209" y="265" width="40" height="40" variable="#![cardindex]" font="Verdana;8;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" borderthickness="0" rotation="270" horizontalalign="0" verticalalign="2" lineheight="14" wordspace="0" opacity="255" enabled="true" outlinecolor="0x000000FF" outlinethickness="0" justifiedtext="false" autoscalefont="false" lockaspect="false" keeporiginalsize="false" />
+    <Reference RelativePath="Avenue Empires Card Data Source.csv" Default="true" />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>0</exportWidth>
+    <exportHeight>0</exportHeight>
+  </Layout>
+  <translatorName>Incept</translatorName>
+</Project>

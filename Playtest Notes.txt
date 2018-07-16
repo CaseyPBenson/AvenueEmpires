@@ -1,0 +1,15 @@
+5 July 2018
+Testers: Casey Benson, Da-Hee Im, Jesse Hibbs
+Scores: ~23, ~16, ~18
+-20 cards per player is too many
+-Patio is really bad: hard to achieve the objective.
+-VP if next to a trail cards are bad; should either give more VP or count as the thing they want to be next to
+
+6 July 2018
+Testers: Casey Benson, Josh Newman, Curtis McCoy, Samantha Schlough
+Scores: 34, 41, 40, 36
+-15 cards per player is still too many. Decision space is too huge and makes it easy to do beneficial trades
+-Patio is actually really good since it can basically be used as a fake Gatehouse. Maybe tweak it a bit
+-Vista is extremely good, Gatehouse is slightly worse, Patio is the worst of the three but all 3 of these play off each other - just buiding straight out gets tons of points and theres no incentive to trade
+-Final scoring is a bit tricky due to the cards
+-dual land are super good and easy to achieve their passive bonus
