@@ -83,5 +83,5 @@ _NOTE: This applies even if the rules text is not on any of the cards involved. 
 The player with the most VP has the most prosperous empire, and wins the game.
 * In case of a tie, the player with the longest Wall has demonstrated their mastery of construction, and wins the game.
 * If the game is still tied, the player with the longest Road has demonstrated their mastery of trade, and wins the game.
-* If the game is still tied, the player with the longest river has demonstrated their mastery of agriculture, and wins the game.
+* If the game is still tied, the player with the longest River has demonstrated their mastery of agriculture, and wins the game.
 * If the game is still tied, each tied player enters a lengthy and embittered rivalry with one another and must begrudgingly accept a shared victory.
