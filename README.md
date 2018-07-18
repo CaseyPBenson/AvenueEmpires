@@ -15,4 +15,4 @@ Avenue Empires is a three- to six-player card-drafting spacial tableau builder w
 
 ## LICENSING
 
-Contents of ./icons by game-icons.net is licensed under CC BY 3.0
+Contents of ./images by game-icons.net is licensed under CC BY 3.0
