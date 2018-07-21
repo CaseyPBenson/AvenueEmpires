@@ -13,3 +13,13 @@ Scores: 34, 41, 40, 36
 -Vista is extremely good, Gatehouse is slightly worse, Patio is the worst of the three but all 3 of these play off each other - just buiding straight out gets tons of points and theres no incentive to trade
 -Final scoring is a bit tricky due to the cards
 -dual land are super good and easy to achieve their passive bonus
+
+20 July 2018
+Testers: Casey Benson, Josh Newman, Curtis McCoy, Kirstan Norris
+Scores: 33, 29, 20, 35
+-First game with new draw rules. Draw 3 was still too excessive, quit and restart a game halfway through to use a hand of 4 cards
+-Hand of 4 cards, draw 1 worked out excellently. Enough wiggle room to hold onto valuable cards but tight enough that it had constant tricky decisions.
+-Stacking cards with art showing splits the difference between stackability and distance readability
+-Game eventually turned into trading basics, which sucks because basics still suck. Basics need to be better and/or there needs to be fewer of them.
+-Gatehouse and Patio continue to be too good. Vista is much worse in this version, which is good. Dual lands are also still too good, still need to lose the bonus probably. House et. al. also still suck.
+-Card idea: improves basic chains it touches? +1 VP/card, high scoring if you have 1/2 of those and a long basic chain? seems good enough to try.

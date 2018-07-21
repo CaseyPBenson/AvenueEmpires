@@ -36,17 +36,11 @@ There are 60 Building Cards in Avenue Empires. A Building Card consists of 3 sec
 3. An abbreviated version of the card's rules text, for quick reference.
 
 **2.1.2**
-Cards are drawn during the Production Phase, traded during the Trading Phase, and built during the Building Phase.
+Cards are traded during the Trading Phase, built during the Building Phase, and drawn during the Production Phase.
 
 # 3.0 Game Setup
 **3.1** 
-Shuffle the deck of Building Cards and place it in a location central to all players, then deal out each player's starting hand, if any. 
-**3.1.1**
-In a four- or five-player game, do not deal a starting hand to any player.
-**3.1.2**
-In a three-player game, deal a starting hand of two Building Cards to each player.
-**3.1.3**
-In a six-player game, deal a starting hand of one Building Card to each player.
+Shuffle the deck of Building Cards and place it in a location central to all players, then deal out to each player a starting hand of 4 Building Cards. 
 
 # 4.0 Playing the Game
 Avenue Empires is divided into 3 phases: the Trading Phase, the Building Phase, and the Production Phase.
@@ -67,13 +61,12 @@ Players have three Avenues in their city: the Left Avenue, the Center Avenue, an
 **4.2.3**
 When building in an Avenue, the building is always built at the end of the Avenue, beyond any already-built Buildings.
 **4.2.4**
-Buildings are considered adjacent if they are next to each other orthogonally in the same Avenue, or in seperate Avenues.
+Buildings are adjacent when they are next to each other orthogonally in the same Avenue or in seperate Avenues.
 
 ## 4.3 Production Phase
-During the Production Phase, each player draws 3 Building Cards from the central deck and puts them into their hand, if possible.
+During the Production Phase, each player draws 1 Building Cards from the central deck and puts them into their hand, if possible.
 **4.3.2**
-The deck of Building Cards will run out after several rounds of play. When this occurs, players skip the Production Phase.
-
+The deck of Building Cards will run out shortly before the game ends. When this occurs, players skip the Production Phase.
 
 # 5.0 Scoring and Victory
 When all Building Cards have been played, the game is concluded and scores are tallied based off of each card's rules text.
