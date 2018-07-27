@@ -23,3 +23,13 @@ Scores: 33, 29, 20, 35
 -Game eventually turned into trading basics, which sucks because basics still suck. Basics need to be better and/or there needs to be fewer of them.
 -Gatehouse and Patio continue to be too good. Vista is much worse in this version, which is good. Dual lands are also still too good, still need to lose the bonus probably. House et. al. also still suck.
 -Card idea: improves basic chains it touches? +1 VP/card, high scoring if you have 1/2 of those and a long basic chain? seems good enough to try.
+
+26 Julty 2018
+Testers: Casey Benson, Jesse Hibbs, Esmeralda Salamone, Lucas Carpenter, Mitch Sickler
+Scores: 30, 30 (tiebreaker), 15, 24, 21
+-Hand of 4, Trade 2, Play 1, Draw 1, playing out when you have 2 or fewer cards in hand
+-High variance game - Esme scored half of Jesse and I
+-Trading is better with 4 cards but there are still too many basics in the deck and basics are still bad. Next version might just get rid of basics entirely.
+-Playing out the rest of your hand kind of sucks, actually? Ends on kind of a whimper and makes vista/patio/gatehouse even better.
+-Played in about 25 minutes, which is perfect
+-Tiebreaker is arbitrary. Walls have no particular distinction over other types.
