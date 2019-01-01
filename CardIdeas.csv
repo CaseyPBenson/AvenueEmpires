@@ -1,19 +1,43 @@
-Count,Name,Effect,Abbreviated Effect,Image
-10,Wall,Each Wall of length 2 or more scores 1 VP per Wall card in it.,Wall.\n2+ Walls Connected: 1VP/Wall,images/wall.png
-10,River,Each River of length 2 or more scores 1 VP per River card in it.,River.\n2+ Rivers Connected: 1VP/River,images/river.png
-10,Road,Each Road of length 2 or more scores 1 VP per Road card in it.,Road.\n2+ Roads Connected: 1VP/Road,images/road.png
-2,Bridge,Counts as a River and a Road. +2 VP if connected to both.,River & Road.\nNext to River + Road: 2VP,images/bridge.png
-2,Tunnel,Counts as a Wall and a Road. +2 VP if connected to both.,Wall & Road.\nNext to Wall + Road: 2VP,images/tunnel.png
-2,Aqueduct,Counts as a Wall and a River. +2 VP if connected to both.,Wall & River.\nNext to Wall + River: 2VP,images/aqueduct.png
-2,Patio,"+4 VP if not next to any Wall, Road, or River",No Wall/River/Road Connected: 4VP,images/patio.png
-2,Plaza,+2 VP per each surrounding Road,Each Connected Road: 2VP,images/plaza.png
-2,Oubliette,+2 VP per each surrounding Wall,Each Connected Wall: 2VP,images/oubliette.png
-2,Islet,+2 VP per each surrounding River,Each Connected River: 2VP,images/islet.png
-2,Bastion,Counts as a Wall. +2 VP if placed in the Left or Right Avenues,Wall.\nIn Left or Right Avenue: 2VP,images/bastion.png
-2,Harbor,Counts as a River. +2 VP if placed in the Left or Right Avenues,River.\nIn Left or Right Avenue: 2VP,images/harbor.png
-2,Warehouse,Counts as a Road. +2 VP if placed in the Left or Right Avenues,Road.\nIn Left or Right Avenue: 2VP,images/warehouse.png
-2,Vista,+1VP for each card on this Avenue between this and your Castle,* Cards between this and Castle: *VP,images/vista.png
-2,Gatehouse,+3 VP for each empty surrounding space,Each Connected Empty: 3VP,images/gatehouse.png
-2,House,+2 VP if next to a Street,Street Connected: 2VP,images/house.png
-2,Barracks,+2 VP if next to a Wall,Wall Connected: 2VP,images/barracks.png
-2,Dock,+2 VP if next to a River,River Connected: 2VP,images/dock.png
+Name,Ability,Notes
+Wall,,
+River,,
+Road,,
+Bridge,Counts as a River and a Road.,
+Tunnel,Counts as a Wall and a Road,
+Levee,Counts as a Wall and a River,
+Plaza,+4 VP if surrounded by Roads,Maybe too hard to get? Increase VP reward for these 3 maybe
+Oubliette,+4 VP if surrounded by Walls,
+Islet,+4 VP if surrounded by Rivers,
+Bastion,Counts as a Wall. +2 VP if placed in the Left or Right Avenues,
+Harbor,Counts as a River. +2 VP if placed in the Left or Right Avenues,
+,,
+,,
+,,
+,,
+Caravan,"During the Trade phase, you may trade this to a player instead of from your hand, then build the card you received in that trade here.",
+Portcullis,+2 VP for each empty surrounding space,
+House,+1 VP if next to a Street,
+Barracks,+1 VP if next to a Wall,
+Dock,+1 VP if next to a River,
+,,
+Objective: Berlin,More Walls than anything else in the Center Avenue,
+Objective: Hostile Western Border,More Walls than anything else in the Left Avenue,
+Objective: Hostile Eastern Border,More Walls than anything else in the Right Avenue,
+Objective: Main Street,More Roads than anything else in the Center Avenue,
+Objective: Well Balanced,"Exact mixture of Roads, Rivers, and Walls in town",Maybe impossible? Depends on game state
+,,
+Monument,,
+Post Office,,
+City Hall,,
+Warehouse,,
+Workshop,,
+Restaurant,,
+Armory,,
+Watermill,,
+Waterfall,,
+,,
+Objective: Halfsies,"Cut your town in half with a river, wall, or road. Score the smaller of the two areas.",
+,,
+Sewer,,
+Arena,,
+Trading Post,,
