@@ -1,43 +1,24 @@
-Name,Ability,Notes
-Wall,,
-River,,
-Road,,
-Bridge,Counts as a River and a Road.,
-Tunnel,Counts as a Wall and a Road,
-Levee,Counts as a Wall and a River,
-Plaza,+4 VP if surrounded by Roads,Maybe too hard to get? Increase VP reward for these 3 maybe
-Oubliette,+4 VP if surrounded by Walls,
-Islet,+4 VP if surrounded by Rivers,
-Bastion,Counts as a Wall. +2 VP if placed in the Left or Right Avenues,
-Harbor,Counts as a River. +2 VP if placed in the Left or Right Avenues,
-,,
-,,
-,,
-,,
-Caravan,"During the Trade phase, you may trade this to a player instead of from your hand, then build the card you received in that trade here.",
-Portcullis,+2 VP for each empty surrounding space,
-House,+1 VP if next to a Street,
-Barracks,+1 VP if next to a Wall,
-Dock,+1 VP if next to a River,
-,,
-Objective: Berlin,More Walls than anything else in the Center Avenue,
-Objective: Hostile Western Border,More Walls than anything else in the Left Avenue,
-Objective: Hostile Eastern Border,More Walls than anything else in the Right Avenue,
-Objective: Main Street,More Roads than anything else in the Center Avenue,
-Objective: Well Balanced,"Exact mixture of Roads, Rivers, and Walls in town",Maybe impossible? Depends on game state
-,,
-Monument,,
-Post Office,,
-City Hall,,
-Warehouse,,
-Workshop,,
-Restaurant,,
-Armory,,
-Watermill,,
-Waterfall,,
-,,
-Objective: Halfsies,"Cut your town in half with a river, wall, or road. Score the smaller of the two areas.",
-,,
-Sewer,,
-Arena,,
-Trading Post,,
+Count,Name,Type,Ability
+2,Connector,All,"Counts as a Wall, a River, and a Road."
+2,Post Office,Road,+VP for each Road in current network
+2,Armory,Wall,+VP for each Wall in current network
+2,Harbor,River,+VP for each River in current network
+2,Gatehouse,Wall,+VP if at the end of its Avenue
+2,Pond,River,+VP if NOT next to a River
+2,Patio,Road,+VP if NOT next to a Road
+2,Tower,Wall,+VP if NOT next to a Wall
+2,Plaza,Road,+VP for each adjacent Road
+2,Oubliette,Wall,+VP for each adjacent Wall
+2,Islet,River,+VP for each adjacent River
+,,Road,+VP for Road in row
+,,River,+VP for River in row
+,,Wall,+VP for Wall in row
+,,Road,+VP for Road in column
+,,River,+VP for River in column
+,,Wall,+VP for Wall in column
+1,Academia,Tech,"During the Production Phase, draw one extra card."
+1,,Tech,"During the Building Phase, you may discard this from your avenue to build a second card from your hand in its place."
+1,,Tech,"During the Cleanup Phase, you may choose to hold one card instead of discarding it"
+,,,
+1,,Tech,"During the Building Phase, you may additionally move a built card to the end of an avenue."
+1,,Tech,Each Tech is worth +2VP
