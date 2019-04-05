@@ -2,80 +2,62 @@
 In Avenue Empires, players take on the roles of rulers working to build the most prestigious and prosperous city. Players trade cards to one another while building their own cities, but they must be careful to be certain that they aren't trading away goods that would benefit their neighbor more than themselves!
 
 ## 1.1 Objective
-You win by having the city worth the most Victory Points (VPs) at the end of the game.
+You win by having the city worth the most Victory Points (VPs) at the end of the game. The game ends immediately when there are no more cards left in the deck. 
 
 # 2.0 Components
 * One rulebook
-* 60 Building Cards (63.5x88mm)
-  * 10 of each:
-    * River
-    * Road
-    * Wall
-  * 2 of each:
-    * Aqueduct
-    * Barracks
-    * Bastion
-    * Bridge
-    * Dock
-    * Gatehouse
-    * Harbor
-    * House
-    * Islet
-    * Oubliette
-    * Patio
-    * Plaza
-    * Tunnel
-    * Vista
-    * Warehouse
+* Cards
 
-## 2.1 Building Cards
+## 2.1 Cards
+Cards are drawn drawn during the Production Phase, traded during the Trading Phase, built during the Building Phase.
+
 **2.1.1** 
-There are 60 Building Cards in Avenue Empires. A Building Card consists of 3 sections:
+There are $NUMBER cards in Avenue Empires. A card consists of 4 sections:
 1. The card name.
 2. The card's rules text.
 3. An abbreviated version of the card's rules text, for quick reference.
-
-**2.1.2**
-Cards are traded during the Trading Phase, built during the Building Phase, and drawn during the Production Phase.
+4. The card's art.
 
 # 3.0 Game Setup
-**3.1** 
-Shuffle the deck of Building Cards and place it in a location central to all players, then deal out to each player a starting hand of 4 Building Cards. 
+Shuffle the deck of cards and place it in a location central to all players. 
 
 # 4.0 Playing the Game
-Avenue Empires is divided into 3 phases: the Trading Phase, the Building Phase, and the Production Phase.
+Avenue Empires is divided into 3 phases: the Trading Phase, the Building Phase, the Production Phase, and the Cleanup Phase.
+**4.0.1**
+If the text on a card contradicts the rules, the card's text takes priority.
 
-## 4.1 Trading Phase
-During the Trading Phase, each player simultaneously and secretly chooses two Building Cards in their hand to trade away to their left-hand and right-hand neighbors.
+## 4.1 Production Phase
+During the Production Phase, each player draws three cards from the central deck and puts them into their hand.
+
+## 4.2 Trading Phase
+During the Trading Phase, each player simultaneously and secretly chooses two cards in their hand to trade away to their left-hand and right-hand neighbors.
 **4.1.1**
-After all players have chosen their trades, each player will receive two new Building Cards from their neighbors, which are added to their hand.
-**4.1.2**
-The Trading Phase does not occur during the final round of play, as each player will only have a single card remaining in their hand.
+After all players have chosen their trades, each player will receive two new cards from their neighbors, which are added to their hand.
 
-## 4.2 Building Phase
-During the Building Phase, each player simultaneously chooses one Building Card from their hand to build in one of the three Avenues in front of their Castle.
+## 4.3 Building Phase
+During the Building Phase, each player simultaneously chooses one card from their hand to build in one of the three avenues in front of their Castle.
 **4.2.1**
-The Castle represents you, the player, and is not represented by a card. Some cards may refer to the Castle, and the Castle is considered the first Building in each Avenue.
+The Castle is you, the player, and is not represented by a card. Some cards may refer to the Castle, and the Castle is considered the first building in each Avenue.
 **4.2.2**
 Players have three Avenues in their city: the Left Avenue, the Center Avenue, and the Right Avenue.
 **4.2.3**
-When building in an Avenue, the building is always built at the end of the Avenue, beyond any already-built Buildings.
+When building in an avenue, the building is always built at the end of the avenue, beyond any already-built buildings.
 **4.2.4**
-Buildings are adjacent when they are next to each other orthogonally in the same Avenue or in seperate Avenues.
+Buildings are connected when they are next to each other orthogonally in the same avenue or in different avenues.
 
-## 4.3 Production Phase
-During the Production Phase, each player draws 1 Building Cards from the central deck and puts them into their hand, if possible.
-**4.3.2**
-The deck of Building Cards will run out shortly before the game ends. When this occurs, players skip the Production Phase.
+## 4.4 Cleanup Phase
+During the Cleanup Phase, each player discards all remaining cards in their hand to the discard pile.
 
 # 5.0 Scoring and Victory
-When all Building Cards have been played, the game is concluded and scores are tallied based off of each card's rules text.
-**5.1** 
-Rivers, Roads, and Wall Buildings are all worth 1 VP each if they are adjacent to another River, Road, or Wall, respectively.
-_NOTE: This applies even if the rules text is not on any of the cards involved. For instance, two Tunnels next to each other would be worth 4 VP by themselves: 2 VP as a length-2 Road, and 2 VP as a length-2 Wall._
-**5.2**
+When the deck runs out of cards, the game immediately ends and scores are tallied based off of each card's rules text.
+**5.1**
 The player with the most VP has the most prosperous empire, and wins the game.
-* In case of a tie, the player with the longest Wall has demonstrated their mastery of construction, and wins the game.
-* If the game is still tied, the player with the longest Road has demonstrated their mastery of trade, and wins the game.
-* If the game is still tied, the player with the longest River has demonstrated their mastery of agriculture, and wins the game.
-* If the game is still tied, each tied player enters a lengthy and embittered rivalry with one another and must begrudgingly accept a shared victory.
+
+# 6.0 Glossary
+card
+Castle
+Trading Phase
+Building Phase
+Production Phase
+Victory Point
+avenue
