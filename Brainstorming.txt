@@ -2,3 +2,5 @@ Biblios inspired:
 Draw 4, trade 2, discard 1, play 1?
 Option to draw from opponent discards?
 Instead of trading cards, put a market out? How do neighbors pick which card they want?
+'Trade Boards' between each player, unused trades go there. Least unused trades gets a bonus?
+play cards horizontally, cover 2 avenues
