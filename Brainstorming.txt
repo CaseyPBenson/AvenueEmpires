@@ -4,3 +4,11 @@ Option to draw from opponent discards?
 Instead of trading cards, put a market out? How do neighbors pick which card they want?
 'Trade Boards' between each player, unused trades go there. Least unused trades gets a bonus?
 play cards horizontally, cover 2 avenues
+
+connections must connect to like symbols, or more complex symbols must be above simpler symbols
+ie this is ok
+[]
+()
+but this isn't
+()
+[]
